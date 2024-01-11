@@ -1,4 +1,5 @@
 .DS_Store
+venv/
 debug*
 checkpoints/
 results/
